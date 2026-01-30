@@ -1,12 +1,6 @@
-<head>
-  <title>Your Name's Website</title>
-  <link rel="stylesheet" href="style.css" />
-</head>
-Open the style.css file and add the following CSS rules:
-
 body {
-    background: rgb(125, 198, 205);
-    color: rgb(45, 45, 45);
+    background: rgb(206, 212, 22);
+    color: rgb(205, 37, 37);
     padding: 10px;
     font-family: Arial, sans-serif;
 }
@@ -18,7 +12,7 @@ body {
 
 /* navigation menu */
 nav {
-    background: rgb(117, 148, 99);
+    background: rgb(35, 156, 143);
     margin: 0 auto;
     display: flex;
     padding: 10px;
@@ -28,7 +22,7 @@ nav {
 h1 {
     display: flex;
     align-items: center;
-    color: rgb(0, 0, 0);
+    color: rgb(208, 226, 12);
     flex: 1;
     margin: 0;
 }
@@ -47,12 +41,12 @@ h1 {
 
 a {
     text-decoration: none;
-    color: #419927;
+    color: #05fb3a;
 }
 
 /* main container area beneath menu */
 main {
-    background: rgb(51, 50, 47);
+    background: rgb(124, 53, 192);
     display: flex;
     margin-top: 20px;
 }
@@ -73,7 +67,7 @@ main {
 
 /* interests section styles */
 #interests {
-    border: 4px silver ridge;
+    border: 4px rgb(152, 37, 37) ridge;
     padding: 8px;
     margin-top: 20px;
 }
